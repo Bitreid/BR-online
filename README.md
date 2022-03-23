@@ -8,7 +8,7 @@ npm run dev
 ## Описание параметров сервера
 http://localhost:5000/
 
-## Stack technologys
+## Backend stack
 `pg, pg-hstore` - работа с PGAdmin; 
         `axios` - работа с асинхронным кодом; 
     `sequelize` - работы с базой данных; 
